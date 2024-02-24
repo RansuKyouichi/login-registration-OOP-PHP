@@ -1,0 +1,1 @@
+OOP style and PDO connection. 
